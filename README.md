@@ -87,4 +87,4 @@ I am curious Front-End Developer, interested in writing new codes, skilled at de
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
